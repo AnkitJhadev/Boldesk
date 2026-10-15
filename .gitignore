@@ -1,0 +1,19 @@
+node_modules
+.turbo
+dist
+.next
+coverage
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# Expo
+.expo/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
